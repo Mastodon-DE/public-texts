@@ -1,0 +1,21 @@
+<style>
+.center-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.margin-0 {
+  margin: 0 !important;
+}
+.flex-row {
+  display: flex;
+  gap: 10px;
+}
+.flex-column {
+  gap: 35px;
+  display: flex;
+  flex-direction: column;
+}
+</style>
+
+/* You'll have to add everything between the <style> tags to custom CSS via the Admin UI which is Preferences > Administration > Server Settings > Appearance > Custom CSS */
