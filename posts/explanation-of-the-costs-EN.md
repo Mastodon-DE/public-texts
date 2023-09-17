@@ -1,5 +1,7 @@
 **Explanation of the costs for running MastodonDE**
 
+[German version](https://mastodon.de/@MastodonDE/110810936592028856)
+
 *Monthly costs*
 - Electricity: 316.8 €
 - Internet: 35 €
@@ -7,6 +9,7 @@
   
 **Total: 362.25 € / month**
 
+You can [view many popular options to donate](https://mastodon.de/@MastodonDE/110808633497349326) here :liberapay: :kofi: :patreon: :paypal: !
 
 How does this all add up...? :blobcatfearful:
   

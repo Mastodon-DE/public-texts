@@ -20,7 +20,7 @@ Direkte Banküberweisung (*keine Gebühren*):
 **Setz die Memo / Referenz als "Spende für mastodon.de"**  
   
   
-Erklärung der Kosten (362.25€/Monat) in [deutsch](https://mastodon.de/@MastodonDE/110810936592028856) and [englisch](https://mastodon.de/@MastodonDE/110811119053549314).
+Erklärung der Kosten (362.25€/Monat) in [deutsch](https://mastodon.de/@MastodonDE/110810936592028856) und [englisch](https://mastodon.de/@MastodonDE/110811119053549314).
 
 Du kannst auch unseren offiziellen Twitch-Kanal abonnieren oder das kostenlose Prime-Abonnement nutzen um uns geldlich zu unterstützen, ohne, dass es dich etwas kostet!
 

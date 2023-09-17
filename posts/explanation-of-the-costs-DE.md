@@ -1,5 +1,7 @@
 **Erklärung der Kosten für das Betreiben von MastodonDE** 
 
+[English version](https://mastodon.de/@MastodonDE/110811119053549314)
+
 *Monatliche Kosten*
 - Strom: 316,8 €
 - Internet: 35 €
@@ -7,6 +9,7 @@
   
 **Gesamt: 362,25 € / Monat**
 
+Sie können hier [viele Optionen zum Spenden einsehen](https://mastodon.de/@MastodonDE/111080741382091815) :liberapay: :kofi: :patreon: :paypal: !
 
 Wie setzt sich das ganze zusammen...? :blobcatfearful:
   
@@ -70,7 +73,7 @@ Diese Kosten werden bisher aus der Tasche der quelloffenen Softwarefirma von Eri
 Langfristig soll MastodonDE eine eigene e.V., ggf. auch eG, gUG oder gGmbH werden. Irgendetwas, das nicht auf Profit aus ist, **um zu versichern, dass wir als Plattform immer Werbefrei, Algorithmusfrei, ohne Datenklau, antikommerziell sowie antikapitalistisch bleiben!**  
   
 Um das zu ermöglichen benötigen wir Spenden von *mindestens* 362,25 € / Monat.  
-Sie können hier [viele beliebte Optionen zum Spenden einsehen](https://mastodon.de/@MastodonDE/110808633497349326)!
+Sie können hier [viele Optionen zum Spenden einsehen](https://mastodon.de/@MastodonDE/111080741382091815) :liberapay: :kofi: :patreon: :paypal: !
   
   
 **Sobald diese Rechnung gedeckt ist, wird MastodonDE langfristig möglich sein!** :erikuden:
