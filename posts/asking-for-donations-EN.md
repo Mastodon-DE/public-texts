@@ -1,3 +1,6 @@
+Link: https://mastodon.de/@MastodonDE/110808633497349326
+
+==================================================================
 Interested in **supporting this instance?** :blobcatreachrev:​:MastodonDE:​:blobfoxfloofreach:  
 
 Feel free to **donate** using one of the below links:
@@ -29,3 +32,4 @@ Kind regards,
 **@Emily, @ErikUden & @Sleagle** :blobfoxfloofcofe:
 
 🤎🧡💛💚💙💜:blobhaj_flag_transgender:​:blobhaj_flag_gay:​:fediverse:
+==================================================================
