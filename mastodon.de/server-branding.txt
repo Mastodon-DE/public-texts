@@ -1,0 +1,3 @@
+Server name: MastodonDE
+Profile: ErikUden
+E-Mail: info@mastodon.de

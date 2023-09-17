@@ -1,0 +1,73 @@
+Name: MastodonDE
+Handle: @Mastodon_DE
+Channel URL: https://www.youtube.com/channel/UCkLDIhO3oapjXlhVjUFYdlg
+Channel TAG: https://www.youtube.com/@Mastodon_DE
+Contact info: info@mastodon.de
+
+Links:
+------------------------------------------------------------------
+MastodonDE - https://mastodon.de/@MastodonDE
+Twitch - https://www.twitch.tv/Mastodon_DE
+LiberaPay - https://liberapay.com/MastodonDE/
+Ko-Fi - https://ko-fi.com/MastodonDE
+Patreon - https://www.patreon.com/MastodonDE
+Status - https://status.mastodon.de
+Signal - https://signal.group/#CjQKIFMct-WMIEFeKGHvSBUwi4geZr_cXltR1NnY88vP9kdGEhAr6CRNfqONvZB_kngJmLRw
+Telegram - https://t.me/mastodon_de
+------------------------------------------------------------------
+
+Description:
+DE
+==================================================================
+Eine Mastodon Instanz aus Ostfriesland für die ganze Welt!  
+
+Ursprünglich von Erik Uden ins Leben gerufen wurde mastodon.de mittlerweile zu einer riesigen Mastodon-Instanz mit einem großen und vielfältigen Team sowie Userbase!
+
+Wir machen Build-, Setup- und Config-Livestreams des Servers auf Twitch und posten die gesamte Geschichte von #MastodonDE auf unseren diversen social media Accounts. 
+
+Du kannst uns hier finden: @MastodonDE@mastodon.de & @ErikUden@mastodon.de
+
+Spenden Sie einen Cent, einen Euro, oder was auch immer Sie können, wenn Sie wollen! Unsere Dienste werden immer kostenlos bleiben, ohne Werbung, ohne Datenklau und ohne Algorithmen! Unabhängig, sicher und ohne Profitinteresse!
+
+Uden UG (haftungsbeschränkt)
+Wirde Landen 8
+26506 Norden
+Germany
+
+E-Mail-Adresse: info@mastodon.de
+Vertretungsberechtigt: Erik Uden (Geschäftsführer)
+Umsatzsteuer Identifikationsnummer (USt-ID): DE341124953
+
+Handelsregister
+Geführt bei: Amtsgericht Aurich
+Nummer: HRB 205895 
+
+
+==================================================================
+
+EN
+==================================================================
+A Mastodon instance from East Frisia for the entire world!  
+
+Initially created by Erik Uden, mastodon.de has now become a huge Mastodon instance with a large and diverse team and userbase!
+
+We make build, setup, and config livestreams of the server on Twitch and post the entire story of #MastodonDE on our various social media accounts!
+
+You can find us here: @MastodonDE@mastodon.de & @ErikUden@mastodon.de
+
+Chip in a dime, a dollar, or whatever you can if you feel like it! Our services will always remain free, without ads, and without any algorithms / data analysis. Independent, secure, and without profit motive!
+
+MastodonDE is currently run by Uden AI
+Uden UG (haftungsbeschränkt)
+Wirde Landen 8
+26506 Norden
+Germany
+
+E-Mail-Adresse: info@mastodon.de
+Vertretungsberechtigt: Erik Uden (Geschäftsführer)
+Umsatzsteuer Identifikationsnummer (USt-ID): DE341124953
+
+Handelsregister
+Geführt bei: Amtsgericht Aurich
+Nummer: HRB 205895 
+==================================================================

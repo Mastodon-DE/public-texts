@@ -1,0 +1,5 @@
+The server description allows infinite characters but we limit it to 150
+==================================================================
+The most powerful selfhosted Mastodon instance! From East Frisia for the entire world!
+==================================================================
+We need one in German and remove the "selfhosted" part as we recently moved to Hetzner

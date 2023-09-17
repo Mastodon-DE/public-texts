@@ -2,7 +2,8 @@ Invite Link: https://signal.group/#CjQKIFMct-WMIEFeKGHvSBUwi4geZr_cXltR1NnY88vP9
 
 Name: MastodonDE | Info
 
-Description (Max 500 Characters):
+Description:
+(Max 500 Characters)
 ==================================================================
 Informationen über MastodonDE vom Mod Team! 
 ✨ https://status.mastodon.de ✨

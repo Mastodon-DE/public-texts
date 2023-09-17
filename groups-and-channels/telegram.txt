@@ -2,7 +2,8 @@ Invite Link: https://t.me/mastodon_de
 
 Name: MastodonDE | Info
 
-Description (Max 256 Characters):
+Description :
+(Max 256 Characters)
 ==================================================================
 Informationen über mastodon.de
 

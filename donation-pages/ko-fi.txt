@@ -1,0 +1,31 @@
+Username: MastodonDE
+Page URL: https://ko-fi.com/MastodonDE
+
+To Do:
+- Standartisiertes Bio
+- Übersetzung zu deutsch
+- Einheitliches Mission Statement
+
+
+About You
+(Max 900 Characters)
+==================================================================
+An independent Mastodon instance from East Frisia for the entire world!
+
+By Erik Uden, Rodirik, Nick, Simen, Ivan, Ebowski, Emily und Walter
+==================================================================
+
+
+Donation Goal
+(Max 500 Characters)
+==================================================================
+Monthly costs:
+  • Power: 316,8 €
+  • Internet: 35 €
+  • Domain(s): 10,45 €
+Total: 362,25 € / Month  
+  
+A complete and detailed explanation of the bill can be found here:  
+English: https://mastodon.de/@MastodonDE/110811119053549314
+German: https://mastodon.de/@MastodonDE/110810936592028856
+==================================================================

@@ -1,0 +1,70 @@
+Name: MastodonDE
+What are you creating: Der/Die/Das Mastodon!
+Page URL: https://www.patreon.com/MastodonDE
+
+To Do:
+- Vorteile für Tiers
+- Bessere Tiers und Tier-Beschreibung
+- Standartisiertes Bio
+- Einheitliches Mission Statement
+
+
+Bio
+==================================================================
+Wir bauen das größte unabhängige soziale Netzwerk auf der Basis von Mastodon unter der Domain mastodon.de! Aus Ostfriesland, für die gesamte Welt.
+
+Mit eigener Hardware, self-hosted, ohne irgendeine Verbindung zu Big Tech Firmen wie Amazon, Oracle, Google, Facebook, und co.!
+
+Für immer kostenlos, ohne Werbung, oder Algorithmen!
+==================================================================
+
+
+Welcome note
+==================================================================
+[None Yet]
+==================================================================
+
+
+
+Membership tiers
+
+************************
+Name: Jeder Euro Zählt
+Money: 1€/month
+Description: Unsere Dankbarkeit <3
+What's included:
+- Allgemeine Unterstützung
+- Name als Sponsor auf mastodon.de
+************************
+
+************************
+Name: 8 Euro zählen auch...
+Money: 8€/month
+Description: Ihr ermöglicht bei 432€/Monat Stromkosten das 1,85% dieser gedeckt sind!
+What's included:
+- Allgemeine Unterstützung
+- Name als Top Sponsor auf mastodon.de
+************************
+
+************************
+Name: Highlighted Sponsor
+Money: 19.50€/month
+Description: Aufgeführt an der Spitze der allgemeinen Sponsorenliste auf mastodon.de
+
+Ihr ermöglicht bei 432€/Monat Stromkosten das 4,51% dieser gedeckt sind!
+What's included:
+- Allgemeine Unterstützung
+- Name als Top Sponsor auf mastodon.de
+************************
+
+************************
+Name: 🤑ALLE KOSTEN FÜR EINEN MONAT🤑
+Money: 323€/month
+Description: Decke 100% der Stromkosten mit deiner Spende (ermöglicht das MastodonDE für einen Monat existiert)
+
+Ihr ermöglicht bei 432€/Monat Stromkosten das 4,51% dieser gedeckt sind!
+What's included:
+- Name als Top Sponsor auf mastodon.de
+- Ich werde dich für immer in Erinnerung halten
+************************
+
