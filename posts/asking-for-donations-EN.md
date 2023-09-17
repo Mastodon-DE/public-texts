@@ -20,7 +20,7 @@ Direct Bank Transfer (*no fees*):
 **Set your Memo / Reference as “Donation for mastodon.de”**  
   
   
-Explanation of the costs (362.25€/Month) in [English](https://mastodon.de/@MastodonDE/110811119053549314) and [German](https://mastodon.de/@MastodonDE/110810936592028856).
+Explanation of the costs (396.36€/Month) in [English](https://mastodon.de/@MastodonDE/110811119053549314) and [German](https://mastodon.de/@MastodonDE/110810936592028856).
 
 You can also subscribe to our official Twitch channel or use your Prime Sub free of charge!
 
