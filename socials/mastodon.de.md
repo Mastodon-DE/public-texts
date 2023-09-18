@@ -19,7 +19,7 @@ In gemeinsamer Arbeit von:
 @PoppyPeppa
 
 :blobfoxpolice: Moderation
-@berlinux
+@berlinux & @feuerstein
 
 :blobcatdefecit: Finance & Legal
 @WalterUden
