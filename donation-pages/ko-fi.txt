@@ -19,13 +19,17 @@ By Erik Uden, Rodirik, Nick, Simen, Ivan, Ebowski, Emily und Walter
 Donation Goal
 (Max 500 Characters)
 ==================================================================
-Monthly costs:
-  • Power: 316,8 €
-  • Internet: 35 €
-  • Domain(s): 10,45 €
-Total: 362,25 € / Month  
+Monthly cost
+ • Electricity: 316.8 €
+ • Internet: 35.00 €
+ • Web-Server: 28.64 €
+ • Domain(s): 10.92 €
+ • E-Mail: 5.00 €
+Total: 396.36 € / month
   
 A complete and detailed explanation of the bill can be found here:  
-English: https://mastodon.de/@MastodonDE/110811119053549314
-German: https://mastodon.de/@MastodonDE/110810936592028856
+English: 
+https://mastodon.de/@MastodonDE/110811119053549314
+German: 
+https://mastodon.de/@MastodonDE/110810936592028856
 ==================================================================
