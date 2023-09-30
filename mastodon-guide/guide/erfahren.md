@@ -1,0 +1,1 @@
+Auch für erfahrene Mastodon Nutzer gibt es einiges zu beachten. 
