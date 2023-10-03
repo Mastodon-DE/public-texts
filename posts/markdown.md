@@ -3,7 +3,7 @@ link:
 ---
 
 
-Mastodon.de läuft auch Glitch-Soc, einer Fork von Mastodon. Daher haben wir einige Extras, wie die Markdown oder HTML Formatierung, welche jedoch nicht alle Features unterstützt.
+Mastodon.de läuft auch Glitch-Soc, einer Fork von Mastodon. Daher haben wir einige Extras, wie die Markdown oder HTML Formatierung, welche jedoch nicht alle Features unterstützt. Aufgrund niedrigerer Komplexität würden wir Markdown empfehlen.
 
 # Überschrift 1
 ## Überschrift 2
