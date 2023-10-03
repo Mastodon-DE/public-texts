@@ -6,9 +6,10 @@ link:
 **Wusstest du schon:**
 Auf MastodonDE ist einiges anders, als auf einer normalen Mastodon Instanz. 
 Hier mal eine kleine Liste:
-- Erhöhtes Zeichenlimit von 4000 Zeichen
-- 10 Datenfelder im Profil
-- Abstimmungen mit bis zu 10 Optionen
-- Eigene Sticker (gerne auch auf Nachfrage)
-- Markdown Formatierung
-- Einige weitere Glitch-Soc Features
+:blank: • Erhöhtes Zeichenlimit von 4000 Zeichen
+:blank: • 10 Datenfelder im Profil
+:blank: • Abstimmungen mit bis zu 10 Optionen
+:blank: • 1538 Emojis (*gerne mehr auf Nachfrage*)
+:blank: • Markdown & HTML Formatierung 
+:blank: ╚═>(ermöglicht **Fett** & *Kursiv* etc.)
+:blank: • Einige weitere [Glitch-Soc Features](https://glitch-soc.github.io/docs/)
