@@ -16,7 +16,7 @@ Mastodon.de läuft auch Glitch-Soc, einer Fork von Mastodon. Daher haben wir ein
 
 **Fett**
 
-~Das ist falsch~
+~~Das ist falsch~~
 
 [Ein Link zu Mastodon.de](https://mastodon.de)
 
@@ -24,8 +24,8 @@ Mastodon.de läuft auch Glitch-Soc, einer Fork von Mastodon. Daher haben wir ein
 
 ```print("Hello world")```
 
-Das steht im <sup>Index<sup>
-Das steht im <sub>Exponenten<sub>
+Das steht im <sup>Exponenten</sup>
+Das steht im <sub>Index</sub>
 
 
 <h1>Überschrift 1</h1>
@@ -49,7 +49,7 @@ Das steht im <sub>Exponenten<sub>
 
 <code>print("hello world")</code>
 
-<p>Das steht im <sup>Index<sup></p>
-<p>Das steht im <sub>Exponenten<sub></p>
+<p>Das steht im <sup>Exponenten</sup></p>
+<p>Das steht im <sub>Index</sub></p>
 
 <!--Neue Zeile --> <br>
