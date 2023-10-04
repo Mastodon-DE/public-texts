@@ -1,5 +1,5 @@
 ---
-link:
+link: https://mastodon.de/@MastodonDE/111177846816680711
 ---
 
 
