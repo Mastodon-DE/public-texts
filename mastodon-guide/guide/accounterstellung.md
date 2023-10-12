@@ -35,4 +35,4 @@ Nun erhälst du eine E-Mail zur Accounterstellung, welche einen Bestätigungslin
 
 Sobald dies geschafft ist kannst du dich auf Mastodon anmelden :D
 
-[Alles klar! Lasst uns endlich richtig anfangen](/guide/erste%20schritte)
+[Alles klar! Lasst uns endlich richtig anfangen](/guide/konzepte)
