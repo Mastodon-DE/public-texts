@@ -18,4 +18,138 @@
 }
 </style>
 
+
+.center-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.margin-0 {
+  margin: 0 !important;
+}
+.flex-row {
+  display: flex;
+  gap: 10px;
+}
+.flex-column {
+  gap: 35px;
+  display: flex;
+  flex-direction: column;
+}
+
+.user-role-1 {
+  --user-role-accent: #004cff;
+}
+
+.user-role-3 {
+  --user-role-accent: #ff0000;
+}
+
+.user-role-2 {
+  --user-role-accent: #8000ff;
+}
+
+.user-role-5 {
+  --user-role-accent: #ff0080;
+}
+
+.user-role-4 {
+  --user-role-accent: #18f018;
+}
+
+
+/* regarding the following: @h@besties.house did this, thanks for the admin erik */
+/* this is inevitably going to break at some point so for whichever poor soul finds this code breaking something, im so sorry check this imgur link lmfao https://imgur.com/ZbYEB8l please forgive me for it was funny while it lasted */
+/* only applies to erik because he deserves it <3 */
+
+@keyframes earwiggleleft {
+	from {
+		transform: rotate(37.6deg) skew(30deg);
+	}
+	25% {
+		transform: rotate(10deg) skew(30deg);
+	}
+	50% {
+		transform: rotate(20deg) skew(30deg);
+	}
+	75% {
+		transform: rotate(0deg) skew(30deg);
+	}
+	to {
+		transform: rotate(37.6deg) skew(30deg);
+	}
+}
+
+@keyframes earwiggleright {
+	from {
+		transform: rotate(-37.6deg) skew(-30deg);
+	}
+	30% {
+		transform: rotate(-10deg) skew(-30deg);
+	}
+	55% {
+		transform: rotate(-20deg) skew(-30deg);
+	}
+	75% {
+		transform: rotate(-0deg) skew(-30deg);
+	}
+	to {
+		transform: rotate(-37.6deg) skew(-30deg);
+	}
+}
+
+.status__info>span,
+.detailed-status__display-name {
+	overflow: visible;
+}
+
+.status[data-status-by="@ErikUden"] :is(.status__avatar, .account__avatar-overlay),
+.detailed-status[data-status-by="ErikUden"] .detailed-status__display-avatar {
+	position: relative;
+	color: white;
+	width: 48px;
+	height: 48px;
+}
+.status[data-status-by="@ErikUden"] .status__avatar .account__avatar,
+.detailed-status[data-status-by="ErikUden"] .detailed-status__display-avatar .account__avatar {
+	position: fixed;
+	z-index: 1;
+	border-radius: 100%;
+}
+.status[data-status-by="@ErikUden"] .status__avatar:not(:has(.account__avatar-overlay))::before,
+.status[data-status-by="@ErikUden"] .status__avatar:not(:has(.account__avatar-overlay))::after,
+.detailed-status[data-status-by="ErikUden"] .detailed-status__display-avatar::before,
+.detailed-status[data-status-by="ErikUden"] .detailed-status__display-avatar::after {
+	position: absolute;
+	background: #df548f;
+	border: solid 4px currentColor;
+	box-sizing: border-box;
+	content: '';
+	display: inline-block;
+	width: 50%;
+	height: 50%;
+	z-index: 0;
+	pointer-events: none;
+}
+.status__avatar::before,
+.detailed-status__display-avatar::before {
+	left: -4px;
+	border-radius: 0 75% 75%;
+	transform: rotate(37.5deg) skew(30deg);
+}
+.status__avatar::after,
+.detailed-status__display-avatar::after {
+	right: -4px;
+	border-radius: 75% 0 75% 75%;
+	transform: rotate(-37.5deg) skew(-30deg);
+}
+.status__avatar:hover::before,
+.detailed-status__display-avatar:hover::before  {
+	animation: earwiggleleft 1s infinite;
+}
+.status__avatar:hover::after,
+.detailed-status__display-avatar:hover::after {
+	animation: earwiggleright 1s infinite;
+}
+
 /* You'll have to add everything between the <style> tags to custom CSS via the Admin UI which is Preferences > Administration > Server Settings > Appearance > Custom CSS */
