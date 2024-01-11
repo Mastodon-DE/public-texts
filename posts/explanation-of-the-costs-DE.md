@@ -1,3 +1,7 @@
+Link: https://mastodon.de/@MastodonDE/110810936592028856
+
+Post
+=======================================
 **Erklärung der Kosten für das Betreiben von MastodonDE** 
 
 [English version](https://mastodon.de/@MastodonDE/110811119053549314)
@@ -12,6 +16,8 @@
 **Gesamt: 396,36 € / Monat**
 
 Sie können hier [die Optionen zum Spenden einsehen](https://mastodon.de/@MastodonDE/111080741382091815)! :liberapay: :kofi: :patreon: :paypal:  
+
+[Tatsächliche und Gesamtausgaben](https://mastodon.de/@MastodonDE/111737398475692330).
   
   
 Wie setzt sich das ganze jetzt zusammen...? :blobcatfearful:  
@@ -90,7 +96,7 @@ Niemand für die Arbeit am Projekt entlohnt wird, oder die vorherigen Ausgaben b
 Wie Sie unschwer beim Lesen dieses Beitrags erkennen können sind die 396,36 € wirklich **nur zum Decken der Kosten beim Optimalbetrieb**. Wenn dieser Wert erreicht wird gibt es keine Kosten mehr auf denen wir sitzen bleiben, welche wir, neben unserer Zeit, für dieses Projekt gerne ausgeben, aber ggf. nicht für immer ausgeben können.
   
   
-Langfristig soll MastodonDE eine eigene e.V., ggf. auch eG, gUG oder gGmbH werden. Irgendetwas, das nicht auf Profit aus ist, **um zu versichern, dass wir als Plattform immer Werbefrei, Algorithmusfrei, ohne Datenklau, antikommerziell sowie antikapitalistisch bleiben!**  
+Langfristig soll MastodonDE eine eigene e.V. werden **um zu versichern, dass wir als Plattform immer Werbefrei, Algorithmusfrei, ohne Datenklau, antikommerziell sowie antikapitalistisch bleiben!**  
   
 Um das zu ermöglichen benötigen wir Spenden von *mindestens* 396,36 € / Monat.  
 Sie können hier [Spenden](https://mastodon.de/@MastodonDE/111080741382091815)! 
