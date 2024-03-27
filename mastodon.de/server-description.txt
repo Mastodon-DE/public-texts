@@ -2,4 +2,3 @@ The server description allows infinite characters but we limit it to 150
 ==================================================================
 Mastodon für die DACH Region (Deutschland, Österreich, Schweiz) - and everyone is welcome!
 ==================================================================
-We need one in German and remove the "selfhosted" part as we recently moved to Hetzner

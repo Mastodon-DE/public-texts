@@ -27,13 +27,13 @@ Da uns die Transparenz über diese Spenden, sowie wofür die Spenden eigentlich 
 
 # Wodurch setzen sich diese Kosten zusammen?
 
-- **Energie:**  1.397,84 €*
-- **Hosting:**  687,53 €
-- **Transport:**  275,00 €
+- **Energie:** 1.397,84 €*
+- **Hosting:** 687,53 €
+- **Transport:** 275,00 €
 - **Bauteile:** 44,04 €
-- **Domains:**  90,04 €
+- **Domains:** 90,04 €
 - **Sonstiges:** 100,00 €
-- **E-Mail:**  40,00 €
+- **E-Mail:** 40,00 €
 
 <sup><sub>**auch Internetkosten*</sub></sup>
 
@@ -45,7 +45,7 @@ Da uns die Transparenz über diese Spenden, sowie wofür die Spenden eigentlich 
 <br/>
 
 # Wodurch setzen sich diese Spenden zusammen?
-- **PayPal:**  1,196.47 €
+- **PayPal:** 1,196.47 €
 - **IBAN/Bank:** 694.20 €
 - **Ko-Fi:** 244.57 €
 - **LiberaPay:** 121.77 €

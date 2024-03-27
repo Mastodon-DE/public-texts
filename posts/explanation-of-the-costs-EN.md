@@ -2,53 +2,66 @@ Link: https://mastodon.de/@MastodonDE/110811119053549314
 
 Post
 =======================================
-**Explanation of the costs for running MastodonDE**
+Link: https://mastodon.de/@MastodonDE/110811119053549314
+
+Post
+=======================================
+**Explanation of the operating expenses of mastodon.de**
 
 [German version](https://mastodon.de/@MastodonDE/110810936592028856)
 
-*Monthly cost*
-:blank: • Electricity: 316.8 €
+*Monthly charges*
+:blank: • Electricity: 139.73 €
+:blank: • Cloud servers: 86.19 €
 :blank: • Internet: 35.00 €
-:blank: • Web-Server: 28.64 €
 :blank: • Domain(s): 10.92 €
-:blank: • E-Mail: 5.00 €
+:blank: • Email: 5.00 €
 
-**Total: 396.36 € / month**
+**Total: 276.84 € / month**
 
 You can [view many popular options to donate](https://mastodon.de/@MastodonDE/110808633497349326) here! :liberapay: :kofi: :patreon: :paypal:
-</br>
-How does this all add up...? :blobcatfearful:
-</br>
-</br>
-*Electricity costs* :blobcat_rss:
-We pay 0.40 € / KWh, the rack for #MastodonDE consumes ~1 KW, however at peak times also ~1.3 KW, so we calculate with 1.1 KW.
 
-So 1.1 KW × 0.40 € / KWh × 24h × 30 days = **316.8 € / month**.  
+And here is an exact [chronological list of all expenses and donations](https://mastodon.de/@MastodonDE/111737398475692330).
   
+  
+How does it all fit together?
+ 
+</br>
+
+# Electricity cost
+We pay ~0.19 € / KWh, the rack for #MastodonDE consumes ~0.9 KW, but also ~1.2 KW at peak operation, so we calculate with a usage of 1.0 KW.
+
+So 1.0 KW × 0.1941 € / KWh × 24h × 30 days = **139.73 € / month**.
   
 </br>
-  
-*Internet* :ablobfoxloading:
-The servers are operated out of the home of @ErikUden and also use his Internet bandwidth for more than 50%, however, in order to simplify calculations we will pretend as if the servers use 50% and the other 50% continues to be used privately. Since MastodonDE is also reachable by phone via this telephone line + internet contract, it is also fair to charge 50% for it.  
-  
-We have the *Red Internet & Phone 1000 Cable* from Vodafone with **1150 Mbit/s download and 56.7 Mbit/s upload, this costs 70 € / month**.  
-  
-70 € / 2 = 35 €.  
-  
-MastodonDE thus needs to pay 35 € / month for the Internet connection.  
-  
+
+# Cloud servers
+
+## Root server
+For the mastodon.de instance we use a Hetzner root server (`AX52 | Upgrade to DDR5 ECC RAM | Primary IPv4`) which costs 80.92 € / month.
+
+
+## Web server
+For the website join-mastodon.de we use a separate Hetzner cloud server ('CPX11 | x86 | 40 GB | eu-central'), so that the site is independent from the rest of our infrastructure.
+This web server costs 5.20 € / month.
+
+In total we pay **86.19 € / month** for the servers.
   
 </br>
+
+# Internet
+Some of the servers are operated in @ErikUden's private home and therefore also use his internet connection. Since the company behind it, Uden UG (*limited liability*), can also be reached by telephone via this combined contract, this is included in the price.
   
-*Web-Server* :blobcatcode:
-We use a Hetzner cloud server for the join-mastodon.de website, so that site is independent from our infrastructure.
-This web-server costs 0.0392 € / hour (*0.0008 € for the IPv4, 0.0384 € for the server*), with 730.485 hours in a month, this results in **28.64€ / month.** 
+We have the *Red Internet & Phone 1000 Cable* from Vodafone with **1150 Mb/s download and 56.7 Mbit/s upload, this costs 70 € / month**.
   
+70 € / 2 = 35 €.
+  
+So MastodonDE pays **35 € / month for an internet connection**.
   
 </br>
   
 *Domain(s)* :blobfoxcomputerowo:
-The domains and instances which are operated by the MastodonDE network:  
+The domains and instances operated by the MastodonDE network:
 :blank: • mastodon.de (*5.00 € / year*)
 :blank: ╚═>IONOS
 :blank: • join-mastodon.de (*5.00 € / year*)
@@ -67,38 +80,38 @@ The domains and instances which are operated by the MastodonDE network:
 :blank: ╚═>Namecheap
 :blank: • beertu.be (*4.99 € / year*)
 :blank: ╚═>Regery
-  
-Total domain costs:  
+
+Total domain costs:
 :blank: • 125.36 € / year
 :blank: • **~10.92 € / month**
   
   
 </br>
   
-*E-Mail* 💌 :blobcataww:
-We make use of the one (1) mailbox E-Mail Business offer from IONOS for [info@mastodon.de](mailto:info@mastodon.de) which costs **5 € / Monat**. 
+*E-mail*
+We use the one (1) mailbox email business offer from IONOS for [info@mastodon.de](mailto:info@mastodon.de) which costs **5 € / month**.
   
   
 </br>
 </br>
   
-***Total 396.36 € / month*** :blobcatgoogly:
+***A total of 276.84 € / month***
   
-With this money we could maintain MastodonDE if:  
-No device or server ever breaks and needs to be replaced :blobcateyes:
-Storing backups externally wouldn't cost money :blobfoxlaughsweat:  
-We never need external help :blobfoxnomcat:  
-We never get in legal trouble :blobcatfearful:
-No one will ever be compensated for working on the project, or paid for previous expenses :blobcatmeowcouple:  
-  
-  
-As you can easily see by reading this post the 396.36 € are really **only to cover the costs at optimal operation**. If this value is reached by donations there are no more running costs on our end, which we, beside our time, gladly sacrifice for this project, but possibly cannot continue to do forever.
+With this money we could run MastodonDE if:
+- No device or server ever breaks and needs to be replaced
+- Storing the backups externally would not cost any money
+- We never need external help
+- We never get into legal problems
+- No one is paid for work on the project or previous expenses are paid
   
   
-In the long run MastodonDE shall become a non-profit **to ensure that we as a platform always remain advertising-free, algorithm-free, without data theft, anti-commercial as well as anti-capitalist!**  
-  
-To make this possible we need donations of *at least* 396.36 € / month.  
-You can [view many popular options to donate](https://mastodon.de/@MastodonDE/110808633497349326) here! :liberapay: :kofi: :patreon: :paypal: 
+As you can easily see when reading this article, the **276.84 € is really only to cover the costs of optimal operation**. When this value is reached, there are no more costs that we are left with, which, in addition to our time, we would like to spend on this project, but may not be able to spend forever.
   
   
-**Once this bill is covered, MastodonDE will be possible to continue existing long-term!** :erikuden:
+In the long term, MastodonDE will become its own e.V. **to ensure that as a platform we will always remain ad-free, algorithm-free, data theft, anti-commercial and anti-capitalist!**
+  
+To make this possible we need donations of 276.84 € / month.
+You can view [all the options to donate](https://mastodon.de/@MastodonDE/110808633497349326) here!
+  
+  
+**Once this bill is covered, MastodonDE will run long-term!** :erikuden: :MastodonDE:
