@@ -1,3 +1,7 @@
+Link: https://mastodon.de/@MastodonDE/110810973395362754
+
+Post
+=======================================
 **Addendum 1:** Die Firma momentan hinter mastodon.de
 
 Diese Kosten werden bisher aus der Tasche der quelloffenen Softwarefirma von Erik Uden namens [Uden AI](https://uden.ai) getragen welche auch für den Moment das rechtliche Vehikel für MastodonDE ist. @ErikUden gründete die Uden UG (*haftungsbeschränkt*) im Februar 2021 und ist der Geschäftsführer sowie auch alleinige Mitarbeiter der Firma. Sie stellt Web-Dienste (*web-hosting, web-design, usw.*) bereit und erzeugt ausschließlich quelloffenen Code. Ich, Erik Uden, schreibe diesen Text nur damit klar ist, dass keinerlei Ausbeutung geschehen musste um MastodonDE zu finanzieren. Ich habe komplett alleine gearbeitet und anhand einiger weniger Aufträge das nötige Geld um die monatlichen Kosten von MastodonDE ein paar Mal zu decken erarbeitet - neben dem Abitur, meiner politischen Arbeit, und später auch neben dem Studium.  

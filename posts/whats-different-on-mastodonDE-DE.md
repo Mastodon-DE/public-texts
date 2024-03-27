@@ -1,8 +1,8 @@
----
-link: https://mastodon.de/@MastodonDE/111178039788718676
----
+Link: https://mastodon.de/@MastodonDE/111178039788718676
 
 
+Post:
+=======================================
 **Wusstest du schon:**
 Auf MastodonDE ist einiges anders, als auf einer normalen Mastodon Instanz. 
 Hier mal eine kleine Liste:

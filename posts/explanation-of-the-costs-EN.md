@@ -1,3 +1,7 @@
+Link: https://mastodon.de/@MastodonDE/110811119053549314
+
+Post
+=======================================
 **Explanation of the costs for running MastodonDE**
 
 [German version](https://mastodon.de/@MastodonDE/110810936592028856)

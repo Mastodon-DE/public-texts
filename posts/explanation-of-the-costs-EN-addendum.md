@@ -1,3 +1,7 @@
+Link: https://mastodon.de/@MastodonDE/110811130252866776
+
+Post
+=======================================
 **Addendum 1:** The company currently behind mastodon.de
 
 These costs are so far covered out Erik Uden's open source software company called [Uden AI](https://uden.ai) which is also for the moment the legal vehicle behind MastodonDE. Erik Uden founded Uden UG (*haftungsbeschränkt*) (*comparable to an LLC/Ltd*) in February 2021 and is the CEO as well as the sole employee of the company. It mainly provides web services (*web-hosting, web-design, etc.*) and generates exclusively open source code. I, Erik Uden, am writing this text just to make clear that no exploitation had to happen to fund MastodonDE. I worked completely on my own and earned the necessary money to cover the monthly costs of MastodonDE for a few times through a few invoices over the past years. I did all of that next to getting my high school diploma, next to my political work, and later also next to studying in university.  

@@ -1,3 +1,7 @@
+Link: https://mastodon.de/@MastodonDE/110766282340652514
+
+Post
+=======================================
 Hallo an alle #MastodonDE User! 👋
  
 Wir haben manchmal eine **unerwartete Downtime** und würden deshalb gerne **Kommunikationswege außerhalb von mastodon.de** schaffen über die ihr *informiert bleiben* könnt!
