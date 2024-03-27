@@ -19,12 +19,12 @@ In gemeinsamer Arbeit von:
 @PoppyPeppa
 
 :blobfoxpolice: Moderation
-@berlinux, @feuerstein & @chloe
+@berlinux, @feuerstein
 
 :blobcatdefecit: Finance & Legal
 @WalterUden
 
-Wir betreiben, entwickeln, und moderieren eine universelle Mastodon Instanz - gehostet in Ostfriesland, aber für die gesamte Welt!
+Mastodon für die DACH Region (Deutschland, Österreich, Schweiz) - and everyone is welcome!
 
 Dieser Account wird von @Emily, @ErikUden & @Sleagle betreut :cursor: 
 :cc_cc: :cc_by: :cc_sa: 🏳️‍⚧️ 🏳️‍🌈
