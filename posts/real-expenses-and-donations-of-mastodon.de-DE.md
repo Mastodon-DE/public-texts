@@ -35,7 +35,12 @@ Da uns die Transparenz über diese Spenden, sowie wofür die Spenden eigentlich 
 - **Sonstiges:** 100,00 €
 - **E-Mail:**  40,00 €
 
-<i><sup><sub>*beinhaltet auch Internetkosten</sub></sup></i>
+<sup><sub>**auch Internetkosten*</sub></sup>
+
+**Ausgaben:** 35
+**⌀-Ausgabe:** 90,52 €
+**⌀-Monatl. Ausgaben:** 308.63 €
+<sub><sup>*Stand 27.03.2024*<sup><sub>
 
 <br/>
 
